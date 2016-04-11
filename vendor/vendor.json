@@ -1,0 +1,37 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "lRiXw/k3wMbVticu4UnHSmqdhSI=",
+			"path": "github.com/google/go-github/github",
+			"revision": "63f6986f05c3e857d0bd9d7245b24c12a6c11147",
+			"revisionTime": "2016-04-05T15:16:35-07:00"
+		},
+		{
+			"checksumSHA1": "eN5IVV7nOL/bR7xdP3vkIVAGm+s=",
+			"path": "github.com/google/go-querystring/query",
+			"revision": "547ef5ac979778feb2f760cdb5f4eae1a2207b86",
+			"revisionTime": "2014-11-09T01:42:17Z"
+		},
+		{
+			"checksumSHA1": "5ARrN3Zq+E9zazFb/N+b08Serys=",
+			"path": "golang.org/x/net/context",
+			"revision": "c745c36eab1034bceb7999c915ced45b1f99021f",
+			"revisionTime": "2015-11-24T17:14:16-08:00"
+		},
+		{
+			"checksumSHA1": "mktBVED98G2vv+OKcSgtnFVZC1Y=",
+			"path": "golang.org/x/oauth2",
+			"revision": "442624c9ec9243441e83b374a9e22ac549b5c51d",
+			"revisionTime": "2015-11-16T13:49:40-08:00"
+		},
+		{
+			"checksumSHA1": "kNjuqgXY37bqXb38DNrC9GS5vlk=",
+			"path": "golang.org/x/oauth2/internal",
+			"revision": "442624c9ec9243441e83b374a9e22ac549b5c51d",
+			"revisionTime": "2015-11-16T13:49:40-08:00"
+		}
+	],
+	"rootPath": "github.com/GeoNet/mail-to-gh"
+}
